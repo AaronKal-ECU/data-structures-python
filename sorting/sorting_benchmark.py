@@ -6,7 +6,7 @@ import sys
 
 
 # Data Structures CSP2348, April 11th 2025
-# Aaron KALAJI 10670705
+# Aaron Mark Kalaji
 # Program File
 
 def clear_screen():

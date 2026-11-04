@@ -1,7 +1,7 @@
 import sys
 
 # Data Structures Question 3 - AVL Tree Program
-# Aaron KALAJI 10670705, May 23 2025
+# Aaron Mark Kalaji, May 23 2025
 
 class Node:
     def __init__(self, key):

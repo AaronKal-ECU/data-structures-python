@@ -2,7 +2,7 @@ import math
 import sys
 
 # Data Structures Question 2 - Full Program
-# Aaron KALAJI 10670705, May 23 2025
+# Aaron Mark Kalaji, May 23 2025
 
 class TreeNode:
     def __init__(self, e):

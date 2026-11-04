@@ -2,7 +2,7 @@ from typing import List, Optional
 import sys
 
 # Data Structures Question 1 - Task 1
-# Aaron KALAJI 10670705, May 23 2025
+# Aaron Mark Kalaji, May 23 2025
 
 class Node:
     def __init__(self, key: int):

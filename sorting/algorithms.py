@@ -4,7 +4,7 @@ import math
 import sys
 
 #Data Structures CSP2348, April 11th 2025
-#Aaron KALAJI 10670705
+#Aaron Mark Kalaji
 #Algorithm Functions without counting comparisons and completion time
 
 def bubblesort_ob1(testarray):
