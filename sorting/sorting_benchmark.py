@@ -1,4 +1,4 @@
-import Functions as sa
+import benchmark_functions as sa
 import time
 import random
 import math
