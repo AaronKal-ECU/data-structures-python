@@ -15,7 +15,7 @@ Two data structures assignments in one repo: a benchmark that pits 11 sorting al
 Python 3, standard library only.
 
 ## What I learnt
-- How comparison counts show Big-O in practice: around 500,000 comparisons for the O(n²) sorts on 1,000 items, against under 9,000 for merge sort.
+- How comparison counts show Big-O in practice: roughly 250,000 to 1,000,000 comparisons for the O(n²) sorts on 1,000 items, against under 9,000 for merge sort.
 - Recursively building balanced and complete BSTs from a sorted sequence.
 - Self-balancing rotations and height and balance-factor tracking in an AVL tree.
 - Recursive traversals and queries over tree structures.
